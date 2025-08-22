@@ -334,6 +334,6 @@ chmod +x YinGuard.sh
 - **项目名称**：隐卫 Pro Security Scanner
 - **版本**：v1.0
 - **开发团队**：Anonymous
-- **技术支持**：希望软件·网络安全办公室
+- **技术支持**：
 - **开源协议**：MIT License
 - **更新日期**：2025年8月
